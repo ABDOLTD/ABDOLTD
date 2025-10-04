@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python JAVA**
 
-- 👨‍💻 All of my projects are available at [hss.dhaban.com](hss.dhaban.com)
+- 👨‍💻 All of my projects are available at [hss.dhaban.com](abdolremote.netlify.app)
 
 - 💬 Ask me about **Python, Django and computer vision**
 
